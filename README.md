@@ -1,4 +1,4 @@
-# Go Test Driven Development
+# Test Driven Development with Golang
 
 ![](assets/red-green-blue-gophers-smaller.png)
 
